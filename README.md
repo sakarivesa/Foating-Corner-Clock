@@ -1,5 +1,5 @@
-# Floating-Corner-Clock
-A simple customizable floating clock using Conky.
+# Simple-Corner-Clock
+A customizable floating clock using Conky.
 Place a clock to Cinnamon without using a panel.
 
 Instructions:
